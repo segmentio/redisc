@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/gomodule/redigo/redis"
-	"github.com/mna/redisc/redistest"
+	"github.com/segmentio/redisc/redistest"
 	"github.com/stretchr/testify/assert"
 )
 

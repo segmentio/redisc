@@ -1,10 +1,10 @@
-# redisc [![GoDoc](https://godoc.org/github.com/mna/redisc?status.png)][godoc] [![Build Status](https://semaphoreci.com/api/v1/mna/redisc/branches/master/badge.svg)](https://semaphoreci.com/mna/redisc)
+# redisc [![GoDoc](https://godoc.org/github.com/segmentio/redisc?status.png)][godoc] [![Build Status](https://semaphoreci.com/api/v1/segmentio/redisc/branches/master/badge.svg)](https://semaphoreci.com/segmentio/redisc)
 
 Package redisc implements a redis cluster client built on top of the [redigo package][redigo]. See the [godoc][] for details.
 
 ## Installation
 
-    $ go get [-u] [-t] github.com/mna/redisc
+    $ go get [-u] [-t] github.com/segmentio/redisc
 
 ## Releases
 
@@ -69,7 +69,7 @@ If you desperately want to send money my way, I have a BuyMeACoffee.com page:
 The [BSD 3-Clause license][bsd].
 
 [bsd]: http://opensource.org/licenses/BSD-3-Clause
-[godoc]: http://godoc.org/github.com/mna/redisc
+[godoc]: http://godoc.org/github.com/segmentio/redisc
 [redigo]: https://github.com/gomodule/redigo
 [oldredigo]: https://github.com/garyburd/redigo
 [rgc]: https://github.com/chasex/redis-go-cluster
